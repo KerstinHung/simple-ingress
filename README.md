@@ -1,0 +1,1 @@
+a simple practice of ingress in k8s.
